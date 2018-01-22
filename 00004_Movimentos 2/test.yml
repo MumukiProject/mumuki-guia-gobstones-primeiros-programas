@@ -1,5 +1,10 @@
-Quando você escrever seu próprio código deve ser muito cuidadoso respeitando a sintaxe.
-
-Especialmente:
-
- * Preste atenção ao uso de letras maiúsculas e minúsculas. Não é a mesma coisa escrever Mover, mover ou MOVER
+check_head_position: true
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 2 4
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 4
+     head 0 3
