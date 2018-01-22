@@ -19,5 +19,3 @@ No entanto, nós humanos somos melhores referindo-se especialmente ao resultado 
 Por isso, existem várias maneiras de resolver um mesmo problema: podemos escrever vários programas que façam o mesmo (o _que_), mas que façam isso de maneiras diferentes (o _como_).
 
 > Vamos ver se você entendeu isso: escreva outro programa que faça o mesmo que o de cima ( mover em direção ao nordeste), mas de maneira diferente. **Fique de olho:** deve funcionar em um tabuleiro de 2x2.
-
-lala
