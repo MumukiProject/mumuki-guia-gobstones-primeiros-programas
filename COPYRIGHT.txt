@@ -1,4 +1,4 @@
-Copyright Franco Bulgarelli, Federico Aloi, Mumuki Project and contributors
+Copyright Franco Bulgarelli, Federico Aloi, Nadia Finzi and contributors
 
 This content consists of voluntary contributions made by many
 individuals. For exact contribution history, see its revision history
