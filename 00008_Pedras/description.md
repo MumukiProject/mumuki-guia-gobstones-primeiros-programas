@@ -1,7 +1,7 @@
 Ótimo, você já entendeu como mover a garra do tabuleiro utilizando a operação `Mover` e as direções (`Sul`, `Oeste`, etc.). Vamos adiante com um passo mais: as **pedras**.
 
 Em qualquer célula do nosso tabuleiro podemos colocar `pedras`. Elas existem com diferentes cores:
-la
+
 * Vermelhas (`Vermelho`)
 * Azuis (`Azul`)
 * Pretas (`Preto`)
