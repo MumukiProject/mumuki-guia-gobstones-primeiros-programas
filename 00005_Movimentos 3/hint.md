@@ -4,5 +4,3 @@ As direções têm os nomes dos quatro pontos cardeais, sendo a primeira letra m
 * `Sul`
 * `Leste`
 * `Oeste`
-
-lala
