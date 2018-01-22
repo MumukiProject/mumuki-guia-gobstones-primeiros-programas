@@ -4,8 +4,8 @@ Parabéns, você terminou a unidade! Isso significa que você já sabe de pedras
 * `Retirar`
 * `Mover`
 
-Além disso, você sabe como definir um programa (program)
-
+Além disso, você sabe como definir um programa (`program`)
+la
 No entanto, tem muito mais coisas que você pode fazer utilizando a linguagem **Gobstones** com esse tabuleiro. Nas próximas unidades continuaremos aprendendo mais comandos e novas ferramentas de programação.
 
 E o mais importante: modularizar  nossos programas usando procedimentos e funções. **Vem com a gente!**
