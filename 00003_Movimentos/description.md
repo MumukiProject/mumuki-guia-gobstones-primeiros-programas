@@ -2,29 +2,33 @@ Até agora o que você fez não foi tão emocionante assim. Isso porque não ens
 
 Por exemplo, a partir de um tabuleiro **inicial** vazio, podemos facilmente escrever um programa que mova a garra de uma determinada posição em direção ao **norte**.
 
-<table>
+<table class= "table">
+  <thead>
   <tr>
-    <th class="text-center">Inicial</th>
-    <th></th> 
+    <th style="text-align: center">Inicial</th>
+    <th style="text-align: center"></th> 
     <th class="text-center">Final</th>
   </tr>
+  </thead>
+  <tbody>
   <tr>
-    <td>  
-      <gs-board>
+    <td style="text-align: center">  
+      <gs-board alt="3x3h">
         GBB/1.0
         size 3 3
         head 0 0
       </gs-board>
     </td>
-    <td><i class="fa fa-arrow-right"></i></td> 
-    <td>
-      <gs-board>
+    <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
+    <td style="text-align: center">
+      <gs-board alt="3x3h01">
         GBB/1.0
         size 3 3
         head 0 1
       </gs-board>
     </td>
   </tr>
+  <tbody>
 </table>
 
 O **código** do programa (ou seja, o **texto** da descrição da solução do problema que daremos ao computador) que consegue isso é o seguinte:
