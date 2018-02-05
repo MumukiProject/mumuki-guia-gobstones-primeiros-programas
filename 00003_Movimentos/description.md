@@ -13,7 +13,7 @@ Por exemplo, a partir de um tabuleiro **inicial** vazio, podemos facilmente escr
   <tbody>
   <tr>
     <td style="text-align: center">  
-      <gs-board alt="3x3h">
+      <gs-board>
         GBB/1.0
         size 3 3
         head 0 0
@@ -21,7 +21,7 @@ Por exemplo, a partir de um tabuleiro **inicial** vazio, podemos facilmente escr
     </td>
     <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
     <td style="text-align: center">
-      <gs-board alt="3x3h01">
+      <gs-board>
         GBB/1.0
         size 3 3
         head 0 1
