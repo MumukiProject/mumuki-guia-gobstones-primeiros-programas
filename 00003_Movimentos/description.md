@@ -4,7 +4,7 @@ Por exemplo, a partir de um tabuleiro **inicial** vazio, podemos facilmente escr
 
 <table>
   <tr>
-    <th align="right">Inicial</th>
+    <th align="justify">Inicial</th>
     <th></th> 
     <th>Final</th>
   </tr>
