@@ -7,7 +7,7 @@ Por exemplo, a partir de um tabuleiro **inicial** vazio, podemos facilmente escr
   <tr>
     <th style="text-align: center">Inicial</th>
     <th style="text-align: center"></th> 
-    <th class="text-center">Final</th>
+    <th style="text-align: center">Final</th>
   </tr>
   </thead>
   <tbody>
