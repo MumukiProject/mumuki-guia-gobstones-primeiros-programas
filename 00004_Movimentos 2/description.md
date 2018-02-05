@@ -36,7 +36,7 @@ program {
 
 > Sabendo disso, escreva um programa que em um tabuleiro de 2x4 com a garra na origem (a célula de baixo no lado esquerdo), mova a garra três vezes em direção ao norte:
 
-<table class= "table">
+<table class= "table" style="width:100%">
   <thead>
   <tr>
     <th style="text-align: center">Inicial</th>
