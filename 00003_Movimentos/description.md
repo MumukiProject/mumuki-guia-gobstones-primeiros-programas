@@ -3,10 +3,10 @@ Até agora o que você fez não foi tão emocionante assim. Isso porque não ens
 Por exemplo, a partir de um tabuleiro **inicial** vazio, podemos facilmente escrever um programa que mova a garra de uma determinada posição em direção ao **norte**.
 
 <table>
-  <tr class="text-center">
-    <th>Inicial</th>
+  <tr>
+    <th class="text-center">Inicial</th>
     <th></th> 
-    <th>Final</th>
+    <th class="text-center">Final</th>
   </tr>
   <tr>
     <td>  
