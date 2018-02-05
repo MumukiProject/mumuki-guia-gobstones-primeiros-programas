@@ -9,7 +9,13 @@ Em qualquer célula do nosso tabuleiro podemos colocar `pedras`. Elas existem co
 
 Por exemplo, este é um tabuleiro com uma pedra vermelha e uma preta:
 
-![2x2r10n11](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/2x2r10n11.png)
+<gs-board>
+  GBB/1.0
+    size 2 2
+    cell 1 0 Rojo 1
+    cell 1 1 Negro 1
+    head 1 1
+</gs-board>
 
 Além de se mover, a garra também pode colocar pedras na **célula atual**. Para isso contamos com a operação `Colocar`, que diz à garra que deposite uma pedra com a cor dada:
 
