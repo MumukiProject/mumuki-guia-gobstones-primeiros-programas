@@ -4,7 +4,20 @@ Por exemplo, a partir de um tabuleiro **inicial** vazio, podemos facilmente escr
 
 | Inicial |   | Final |
 |:-------:|:-:|:-----:|
-|![3x3h](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h.png)|<i class="fa fa-arrow-right"></i>|![3x3h01](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h01.png)|
+|<gs-board>
+  GBB/1.0
+    size 3 3
+    head 0 0
+</gs-board>|
+<gs-board>
+  GBB/1.0
+    size 3 3
+    head 0 1
+</gs-board>|
+
+
+
+
 
 O **código** do programa (ou seja, o **texto** da descrição da solução do problema que daremos ao computador) que consegue isso é o seguinte:
 
