@@ -1,1 +1,1 @@
-Talvez você tenha que mover a garra **antes** de tentar retirar a pedra.
+Talvez você tenha que mover a garra **antes** de tentar retirar a pedra. :innocent:
