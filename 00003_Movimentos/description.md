@@ -8,7 +8,7 @@ Por exemplo, a partir de um tabuleiro **inicial** vazio, podemos facilmente escr
   GBB/1.0
     size 3 3
     head 0 0
-</gs-board>|
+</gs-board>|<i class="fa fa-arrow-right"></i>|
 <gs-board>
   GBB/1.0
     size 3 3
