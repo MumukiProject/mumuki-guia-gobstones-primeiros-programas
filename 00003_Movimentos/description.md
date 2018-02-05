@@ -6,7 +6,7 @@ Por exemplo, a partir de um tabuleiro **inicial** vazio, podemos facilmente escr
   <tr>
     <th class="text-center">Inicial</th>
     <th></th> 
-    <th>Final</th>
+    <th class="text-center">Final</th>
   </tr>
   <tr>
     <td>  
