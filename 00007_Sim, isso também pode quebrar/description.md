@@ -6,4 +6,8 @@ Entendido isso, vamos mostrar uma forma de quebrar, simplesmente para que você 
 
 > E como é essa forma? Descubra você mesmo: a partir do tabuleiro que mostramos aqui embaixo, escreva um programa que faça com que a garra vá para fora dos limites.
 
-![3x3h](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h.png)
+<gs-board>
+  GBB/1.0
+    size 3 3
+    head 0 0
+</gs-board>
