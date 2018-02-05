@@ -2,7 +2,7 @@ Até agora o que você fez não foi tão emocionante assim. Isso porque não ens
 
 Por exemplo, a partir de um tabuleiro **inicial** vazio, podemos facilmente escrever um programa que mova a garra de uma determinada posição em direção ao **norte**.
 
-<table class= "table">
+<table class= "table" style="width:100%">
   <thead>
   <tr>
     <th style="text-align: center">Inicial</th>
