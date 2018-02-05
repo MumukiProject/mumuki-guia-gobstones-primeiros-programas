@@ -2,6 +2,32 @@ Até agora o que você fez não foi tão emocionante assim. Isso porque não ens
 
 Por exemplo, a partir de um tabuleiro **inicial** vazio, podemos facilmente escrever um programa que mova a garra de uma determinada posição em direção ao **norte**.
 
+<table style="width:100%">
+  <tr>
+    <th>Inicial</th>
+    <th></th> 
+    <th>Final</th>
+  </tr>
+  <tr>
+    <td>  
+      <gs-board>
+        GBB/1.0
+        size 3 3
+        head 0 0
+      </gs-board>
+    </td>
+    <td><i class="fa fa-arrow-right"></i></td> 
+    <td>
+      <gs-board>
+        GBB/1.0
+        size 3 3
+        head 0 1
+      </gs-board>
+    </td>
+  </tr>
+</table>
+
+
 | Inicial |   | Final |
 |:-------:|:-:|:-----:|
 |![3x3h](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h.png)|<i class="fa fa-arrow-right"></i>|![3x3h01](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x3h01.png)|
