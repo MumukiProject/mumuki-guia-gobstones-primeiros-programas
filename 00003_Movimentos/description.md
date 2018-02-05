@@ -1,8 +1,8 @@
 Até agora o que você fez não foi tão emocionante assim. Isso porque não ensinamos como dar instruções para a máquina e apenas mostramos um tabuleiro. Nesse exercício vamos aprender uma das ordens que podemos dar para a máquina: mover a garra.
 
 Por exemplo, a partir de um tabuleiro **inicial** vazio, podemos facilmente escrever um programa que mova a garra de uma determinada posição em direção ao **norte**.
-<div class="table-responsive-sm">
-<table class="table">
+
+<table>
   <tr>
     <th class="text-center">Inicial</th>
     <th></th> 
@@ -26,7 +26,6 @@ Por exemplo, a partir de um tabuleiro **inicial** vazio, podemos facilmente escr
     </td>
   </tr>
 </table>
-</div>
 
 O **código** do programa (ou seja, o **texto** da descrição da solução do problema que daremos ao computador) que consegue isso é o seguinte:
 
