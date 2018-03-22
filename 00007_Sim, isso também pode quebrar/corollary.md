@@ -1,4 +1,4 @@
-¡BOOOOOOOOOOOOOOOOOM! :bomb: :bomb: :bomb:
+BOOOOOOOOOOOOOOOOOM! :bomb: :bomb: :bomb:
 
 _Ei, o que aconteceu?_<br>
 Seu programa falhou, quebrou, ou como chamamos no universo Gobstones: **fez BOOM**.
